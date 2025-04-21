@@ -1,4 +1,4 @@
-# Ex.No: 6  Implementation of Steering behaviour-Pursue and Evade in Unity
+# Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
 ### DATE:21/04/2025                                                                           
 ### REGISTER NUMBER : 212222240116
 ### AIM: 
